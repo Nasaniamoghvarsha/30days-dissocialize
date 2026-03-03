@@ -3,9 +3,10 @@
 **A premium Android launcher that helps you reclaim your time from social media — one day at a time.**
 
 <p align="center">
-  <img src="docs/screenshots/home.png" width="250" alt="Home Screen" />
-  <img src="docs/screenshots/insights.png" width="250" alt="Insights Screen" />
-  <img src="docs/screenshots/streak.png" width="250" alt="Streak Screen" />
+  <img src="docs/screenshots/home.png" width="200" alt="Home Screen" />
+  <img src="docs/screenshots/insights.png" width="200" alt="Insights Screen" />
+  <img src="docs/screenshots/streak.png" width="200" alt="Streak Screen" />
+  <img src="docs/screenshots/onboarding.png" width="200" alt="Onboarding" />
 </p>
 
 ---
@@ -88,8 +89,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/30-days-discipline.git
-cd 30-days-discipline
+git clone https://github.com/Nasaniamoghvarsha/30days-dissocialize.git
+cd 30days-dissocialize
 
 # 2. Install dependencies
 npm install

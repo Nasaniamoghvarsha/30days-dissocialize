@@ -14,8 +14,8 @@ Thank you for your interest in contributing! This guide will help you get starte
 
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_USERNAME/30-days-discipline.git
-cd 30-days-discipline
+git clone https://github.com/Nasaniamoghvarsha/30days-dissocialize.git
+cd 30days-dissocialize
 
 # Install dependencies
 npm install
