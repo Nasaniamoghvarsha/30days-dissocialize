@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">30 Days Discipline</string>
+    <string name="title_activity_main">30 Days Discipline</string>
+    <string name="package_name">com.thirtydays.discipline</string>
+    <string name="custom_url_scheme">com.thirtydays.discipline</string>
+    <string name="accessibility_description">This service monitors apps to help you stay disciplined.</string>
+</resources>
