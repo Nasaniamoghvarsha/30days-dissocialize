@@ -3,10 +3,11 @@
 **A premium Android launcher that helps you reclaim your time from social media — one day at a time.**
 
 <p align="center">
-  <img src="docs/screenshots/home.png" width="200" alt="Home Screen" />
-  <img src="docs/screenshots/insights.png" width="200" alt="Insights Screen" />
-  <img src="docs/screenshots/streak.png" width="200" alt="Streak Screen" />
-  <img src="docs/screenshots/onboarding.png" width="200" alt="Onboarding" />
+  <img src="docs/screenshots/home.png" width="160" alt="Home Screen" />
+  <img src="docs/screenshots/insights.png" width="160" alt="Insights Screen" />
+  <img src="docs/screenshots/streak.png" width="160" alt="Streak Screen" />
+  <img src="docs/screenshots/onboarding.png" width="160" alt="Onboarding" />
+  <img src="docs/screenshots/interception.png" width="160" alt="Interception" />
 </p>
 
 ---
